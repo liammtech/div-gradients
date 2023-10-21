@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    color: white;
+    background: linear-gradient(90deg, rgb(205, 84, 213), rebeccapurple);
+    margin: none;
+    border: none;
+}
+
+#heading-container {
+    width: 60vw;
+    text-align: start;
+}
